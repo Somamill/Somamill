@@ -1,5 +1,9 @@
 # Max Miller
 
+<a href="https://github.com/Somamill/"><img src="https://raw.githubusercontent.com/Somamill/dot-brand-kit/main/foundation/social/github.png" width="34" height="34" alt="GitHub"></a> <a href="https://www.reddit.com/user/dot-app/"><img src="https://raw.githubusercontent.com/Somamill/dot-brand-kit/main/foundation/social/reddit.png" width="34" height="34" alt="Reddit"></a> <a href="https://ko-fi.com/somamill"><img src="https://raw.githubusercontent.com/Somamill/dot-brand-kit/main/foundation/social/kofi.png" width="34" height="34" alt="Ko-fi"></a>
+
+[Apps](https://github.com/Somamill/dot-brand-kit/blob/main/CATALOGUE.md) | [Reddit](https://www.reddit.com/user/dot-app/) | [Contact](#contact)
+
 I build reading and listening tools, Japanese learning software, Mac utilities, and games.
 
 ## dot. product family
