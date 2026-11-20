@@ -1,23 +1,24 @@
 # Max Miller
 
-I build reading and listening tools, Japanese learning software, and games.
+I build reading and listening tools, Japanese learning software, Mac utilities, and games.
 
 ## dot. product family
 
-A quieter way to read, listen, and learn. Explore the [dot. product catalogue](https://github.com/Somamill/dot-brand-kit/blob/main/CATALOGUE.md) and the [versioned design system](https://github.com/Somamill/dot-brand-kit/releases).
+Apps for reading, listening, learning, and making room on your Mac. Explore the [dot. product catalogue](https://github.com/Somamill/dot-brand-kit/blob/main/CATALOGUE.md) and the [versioned design system](https://github.com/Somamill/dot-brand-kit/releases).
 
 | Project | What it does |
 | --- | --- |
-| [read.](https://github.com/Somamill/read) | Read EPUBs and saved articles, and keep highlights. |
-| [sovo.](https://github.com/Somamill/sovo) | Listen to your own audiobooks on Apple devices. |
-| [Immersed.](https://github.com/Somamill/immersed) | Study Japanese with video, subtitles and vocabulary. |
-| [dict.](https://github.com/Somamill/dict) | A native Japanese dictionary powered by Kotoba Atlas. |
-| [Kotoba Atlas](https://github.com/Somamill/kotoba-atlas) | Versioned Japanese dictionary data. |
+| <img src="assets/projects/read.png" width="24" height="24" alt="" /> [read.](https://github.com/Somamill/read) | Read EPUBs and saved articles, and keep highlights. |
+| <img src="assets/projects/sovo.png" width="24" height="24" alt="" /> [sovo.](https://github.com/Somamill/sovo) | Listen to your own audiobooks on Apple devices. |
+| <img src="assets/projects/immersed.png" width="24" height="24" alt="" /> [Immersed.](https://github.com/Somamill/immersed) | Study Japanese with video, subtitles and vocabulary. |
+| <img src="assets/projects/dict.png" width="24" height="24" alt="" /> [dict.](https://github.com/Somamill/dict) | A native Japanese dictionary powered by Kotoba Atlas. |
+| <img src="assets/projects/aki.png" width="24" height="24" alt="" /> [aki.](https://github.com/Somamill/aki-support) | Find what’s taking up space on your Mac and review files before removing them. |
+| <img src="assets/projects/atlas.png" width="24" height="24" alt="" /> [Kotoba Atlas](https://github.com/Somamill/kotoba-atlas) | Versioned Japanese dictionary data. |
 
 ## Independent projects
 
-- [Shinkoiwa Sardistic](https://github.com/Somamill/shinkoiwa-support) is an original neon night-watch game by Nick, Baris and Max. Its public support page has help and privacy information.
-- [listen-desktop](https://github.com/Somamill/listen-desktop) is a separate macOS audiobook discovery and catalogue project.
+- <img src="assets/projects/shinkoiwa.png" width="24" height="24" alt="" /> [Shinkoiwa Sardistic](https://github.com/Somamill/shinkoiwa-support) is an original neon night-watch game by Nick, Baris and Max. Its public support page has help and privacy information.
+- <img src="assets/projects/listen-desktop.png" width="24" height="24" alt="" /> [listen-desktop](https://github.com/Somamill/listen-desktop) is a separate macOS audiobook discovery and catalogue project.
 
 ## 日本語 / Deutsch
 
