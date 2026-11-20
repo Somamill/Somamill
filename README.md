@@ -25,3 +25,7 @@ Apps for reading, listening, learning, and making room on your Mac. Explore the 
 日本語の辞書データと導入方法は [Kotoba Atlas](https://github.com/Somamill/kotoba-atlas) をご覧ください。ゲームのサポートは [Shinkoiwa Sardistic](https://github.com/Somamill/shinkoiwa-support) にあります。
 
 Installationshinweise und verfügbare Sprachen findest du im jeweiligen Projekt. Die [dot. Übersicht](https://github.com/Somamill/dot-brand-kit/blob/main/CATALOGUE.md) führt zu den einzelnen Produkten.
+
+## Contact
+
+Questions, ideas, or spotted a bug? [Email Max](mailto:max@miller-max.com). Feedback is always welcome.
