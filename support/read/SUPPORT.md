@@ -1,4 +1,4 @@
-# read. support
+# yomiba. support
 
 Email [max@miller-max.com](mailto:max@miller-max.com) or open a [GitHub issue](mailto:max@miller-max.com). Include your app version, platform, what you tried and any visible error. Do not post passwords, API tokens, private library addresses or copyrighted book files.
 

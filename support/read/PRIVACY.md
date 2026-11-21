@@ -1,10 +1,10 @@
-# read. privacy policy
+# yomiba. privacy policy
 
 Effective 13 November 2026. Publisher: Max Miller. Support: max@miller-max.com.
 
 ## App Store edition for iPhone, iPad and Mac
 
-read. stores imported books, articles, highlights and reading progress locally. It does not include advertising, tracking SDKs or publisher-operated analytics. No account is required for local reading. Text-to-speech uses Apple's system speech services.
+yomiba. (formerly read.) stores imported books, articles, highlights and reading progress locally. It does not include advertising, tracking SDKs or publisher-operated analytics. No account is required for local reading. Text-to-speech uses Apple's system speech services.
 
 Optional connections send data directly to the services you choose. A Calibre/OPDS server receives library requests and credentials; a configured sync server receives reading progress and highlights. Readwise receives your authorized highlight/article requests and changes. Hardcover receives authorized book and reading-progress updates. Feed, cover and article hosts receive network requests when their content is fetched, including the network information ordinarily necessary to respond. These providers apply their own privacy policies and retention practices. You can use local files without configuring these connections.
 
