@@ -12,10 +12,10 @@ Apps for reading, listening, learning, and making room on your Mac. Explore the 
 
 | Project | What it does |
 | --- | --- |
-| <img src="assets/projects/read.png" width="24" height="24" alt="" /> [read.](https://github.com/Somamill/read) | Read EPUBs and saved articles, and keep highlights. |
-| <img src="assets/projects/sovo.png" width="24" height="24" alt="" /> [sovo.](https://github.com/Somamill/sovo) | Listen to your own audiobooks on Apple devices. |
-| <img src="assets/projects/immersed.png" width="24" height="24" alt="" /> [Immersed.](https://github.com/Somamill/immersed) | Study Japanese with video, subtitles and vocabulary. |
-| <img src="assets/projects/dict.png" width="24" height="24" alt="" /> [dict.](https://github.com/Somamill/dict) | A native Japanese dictionary powered by Kotoba Atlas. |
+| <img src="assets/projects/read.png" width="24" height="24" alt="" /> [read.](https://apps.apple.com/us/app/read-books-highlights/id6834109889) | Read EPUBs and saved articles, and keep highlights. |
+| <img src="assets/projects/sovo.png" width="24" height="24" alt="" /> [sovo.](https://apps.apple.com/us/app/sovo/id6834434329) | Listen to your own audiobooks on Apple devices. |
+| <img src="assets/projects/immersed.png" width="24" height="24" alt="" /> [Immersed.](https://github.com/Somamill/immersed-community) | Study Japanese with video, subtitles and vocabulary. |
+| <img src="assets/projects/dict.png" width="24" height="24" alt="" /> [dict.](https://github.com/Somamill/Somamill/blob/main/support/dict/SUPPORT.md) | A native Japanese dictionary powered by Kotoba Atlas. |
 | <img src="assets/projects/aki.png" width="24" height="24" alt="" /> [aki.](https://github.com/Somamill/aki-support) | Find what’s taking up space on your Mac and review files before removing them. |
 | <img src="assets/projects/atlas.png" width="24" height="24" alt="" /> [Kotoba Atlas](https://github.com/Somamill/kotoba-atlas) | Versioned Japanese dictionary data. |
 
